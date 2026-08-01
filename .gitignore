@@ -1,0 +1,6 @@
+.dart_tool/
+.packages
+build/
+tasks.json
+test_tasks_*.json
+pubspec.lock
